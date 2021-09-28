@@ -38,5 +38,10 @@
         "link": "https://javurtez.itch.io/hoopta",
         "icon_source": "./Icons/icon_hoopta.png",
         "icon_key": "icon_hoopta"
+    },
+    "get_logo": {
+        "link": "https://javurtez.itch.io/get-words-with-logo",
+        "icon_source": "./Icons/icon_get_logo.png",
+        "icon_key": "icon_get_logo"
     }
 }
