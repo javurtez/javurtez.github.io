@@ -43,5 +43,10 @@
         "link": "https://javurtez.itch.io/get-words-with-logo",
         "icon_source": "./Icons/icon_get_logo.png",
         "icon_key": "icon_get_logo"
+    },
+    "memory_animals": {
+        "link": "https://javurtez.itch.io/memory-animals",
+        "icon_source": "./Icons/icon_memory_animals.png",
+        "icon_key": "icon_memory_animals"
     }
 }
