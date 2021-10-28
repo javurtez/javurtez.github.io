@@ -48,5 +48,10 @@
         "link": "https://javurtez.itch.io/memory-animals",
         "icon_source": "./Icons/icon_memory_animals.png",
         "icon_key": "icon_memory_animals"
+    },
+    "memory_emotes": {
+        "link": "https://javurtez.itch.io/memory-emotes",
+        "icon_source": "./Icons/icon_memory_emotes.png",
+        "icon_key": "icon_memory_emotes"
     }
 }

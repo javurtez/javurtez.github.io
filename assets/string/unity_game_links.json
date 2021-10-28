@@ -78,5 +78,10 @@
         "link": "https://play.google.com/store/apps/details?id=com.TreberTGames.CastleDodge",
         "icon_source": "./Icons/icon_castle_dodge.png",
         "icon_key": "icon_castle_dodge"
+    },
+    "cat_scape": {
+        "link": "https://play.google.com/store/apps/details?id=com.kagaran.pet.scape",
+        "icon_source": "./Icons/icon_cat_scape.png",
+        "icon_key": "icon_cat_scape"
     }
 }
