@@ -53,5 +53,10 @@
         "link": "https://javurtez.itch.io/memory-emotes",
         "icon_source": "./Icons/icon_memory_emotes.png",
         "icon_key": "icon_memory_emotes"
+    },
+    "icon_guess": {
+        "link": "https://javurtez.itch.io/icon-guess",
+        "icon_source": "./Icons/icon_guess.png",
+        "icon_key": "icon_guess"
     }
 }
