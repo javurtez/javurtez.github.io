@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba37b474.css",
+    "main.js": "/static/js/main.6bfbf7ec.js",
+    "static/js/496.19847c0d.chunk.js": "/static/js/496.19847c0d.chunk.js",
+    "static/media/icon_cat_scape.png": "/static/media/icon_cat_scape.daf27c6b557280accf2b.png",
+    "static/media/icon_bottle_throw3d.png": "/static/media/icon_bottle_throw3d.51e52a910beb935813f3.png",
+    "static/media/icon_simple_puzzle_block.png": "/static/media/icon_simple_puzzle_block.f75fd33da0a703d8f733.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/icon_memory_emotes.png": "/static/media/icon_memory_emotes.5a27a377af7e27ba5ce9.png",
+    "static/media/Melbert_Resume.pdf": "/static/media/Melbert_Resume.7395ea19711917f226f9.pdf",
+    "static/media/icon_memory_animals.png": "/static/media/icon_memory_animals.5cde261ec5a424c516a3.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/icon_skip_box.png": "/static/media/icon_skip_box.34bce5d04d23c277ebea.png",
+    "static/media/icon_mountain_dodge.png": "/static/media/icon_mountain_dodge.c59a307a9407150d28c8.png",
+    "static/media/icon_basketball2d.png": "/static/media/icon_basketball2d.ba5851b775d244e0a820.png",
+    "static/media/icon_markoban.png": "/static/media/icon_markoban.a5249f59d98c7842fff4.png",
+    "static/media/icon_block_stacks.png": "/static/media/icon_block_stacks.5848e8f00f7fc64fa3bd.png",
+    "static/media/icon_guess.png": "/static/media/icon_guess.d6a9663ef331c6294e94.png",
+    "static/media/icon_castle_dodge.png": "/static/media/icon_castle_dodge.9be2277c6f776e31081e.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.ba37b474.css.map": "/static/css/main.ba37b474.css.map",
+    "main.6bfbf7ec.js.map": "/static/js/main.6bfbf7ec.js.map",
+    "496.19847c0d.chunk.js.map": "/static/js/496.19847c0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba37b474.css",
+    "static/js/main.6bfbf7ec.js"
+  ]
+}
