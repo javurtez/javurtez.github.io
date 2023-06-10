@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d60f48ec.css",
-    "main.js": "/static/js/main.97dcf0e0.js",
+    "main.css": "/static/css/main.031a579e.css",
+    "main.js": "/static/js/main.d23f3867.js",
     "static/js/496.19847c0d.chunk.js": "/static/js/496.19847c0d.chunk.js",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Melbert_Resume.pdf": "/static/media/Melbert_Resume.7395ea19711917f226f9.pdf",
+    "static/media/Melbert_Resume.pdf": "/static/media/Melbert_Resume.88264606016a70b1994d.pdf",
+    "static/media/babylon_logo.png": "/static/media/babylon_logo.182d0c84db2575eff248.png",
+    "static/media/pixijs_logo.png": "/static/media/pixijs_logo.61b1ccd8f3e30083f8d8.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/unity_logo.png": "/static/media/unity_logo.e6307961bf3be6d12ee6.png",
+    "static/media/phaser_logo.png": "/static/media/phaser_logo.2782aea4b276402be799.png",
+    "static/media/threejs_logo.png": "/static/media/threejs_logo.abcf47cbd6f551bff1c1.png",
     "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.d60f48ec.css.map": "/static/css/main.d60f48ec.css.map",
-    "main.97dcf0e0.js.map": "/static/js/main.97dcf0e0.js.map",
+    "main.031a579e.css.map": "/static/css/main.031a579e.css.map",
+    "main.d23f3867.js.map": "/static/js/main.d23f3867.js.map",
     "496.19847c0d.chunk.js.map": "/static/js/496.19847c0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d60f48ec.css",
-    "static/js/main.97dcf0e0.js"
+    "static/css/main.031a579e.css",
+    "static/js/main.d23f3867.js"
   ]
 }
