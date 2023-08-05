@@ -5,6 +5,12 @@
         "demoLink": "https://play.google.com/store/apps/details?id=com.kagaran.pet.scape",
         "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_cat_scape.png"
     },
+    "viajero": {
+        "title": "Viajero",
+        "framework": ["phaser", "unity"],
+        "demoLink": "https://play.google.com/store/apps/details?id=com.TaktylStudios.Viajero",
+        "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_viajero.png"
+    },
     "gedia": {
         "title": "Gedia: Market Idle",
         "framework": ["phaser", "unity"],
