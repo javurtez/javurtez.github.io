@@ -1,4 +1,10 @@
 {
+    "foodfight": {
+        "title": "Food Fight",
+        "framework": ["unity"],
+        "demoLink": "https://atari.com/products/food-fight-culinary-combat",
+        "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_foodfight.png"
+    },
     "cat_scape": {
         "title": "Pet Scape",
         "framework": ["unity"],
