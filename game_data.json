@@ -3,6 +3,7 @@
         "title": "Food Fight",
         "framework": ["unity"],
         "gameLink": "https://atari.com/products/food-fight-culinary-combat",
+        "steamLink": "https://store.steampowered.com/app/2243580/Food_Fight_Culinary_Combat/",
         "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_foodfight.png"
     },
     "cat_scape": {
