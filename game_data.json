@@ -12,6 +12,12 @@
         "gameLink": "https://disneynow.com/games/the-villains-of-valley-view-super-sneak/GM5527763739",
         "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_vovv.png"
     },
+    "tots": {
+        "title": "T.O.T.S.: Ready, Set, Let's GO!",
+        "framework": ["phaser"],
+        "gameLink": "https://disneynow.com/games/tots-ready-set-lets-go/GM5523517611",
+        "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_tots.png"
+    },
     "cat_scape": {
         "title": "Pet Scape",
         "framework": ["unity"],
