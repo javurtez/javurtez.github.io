@@ -6,6 +6,12 @@
         "steamLink": "https://store.steampowered.com/app/2243580/Food_Fight_Culinary_Combat/",
         "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_foodfight.png"
     },
+    "vovv": {
+        "title": "The Villains of Valley View: Super Sneak",
+        "framework": ["phaser"],
+        "gameLink": "https://disneynow.com/games/the-villains-of-valley-view-super-sneak/GM5527763739",
+        "icon_source": "https://raw.githubusercontent.com/javurtez/javurtez.github.io/master/icons/icon_vovv.png"
+    },
     "cat_scape": {
         "title": "Pet Scape",
         "framework": ["unity"],
