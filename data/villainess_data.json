@@ -1,0 +1,22 @@
+{
+    "title": "Katena Records: Starting Anew",
+    "description": "Inspired by life simulation and classic dungeon-crawling RPGs, this game blends daily life management with deep underground exploration. Each day, plan your character's activities. \nVenture into mysterious multi-layered dungeons filled with monsters and treasures, train to improve your stats and abilities, strategically plan your next moves, or spend time with other characters to deepen relationships and uncover their stories. Your daily choices shape your character's growth, influence your relationships with companions, and determine how the story unfolds both in the dangerous depths below and in the world above ground.",
+    "games": [
+        "Volcano Princess",
+		"Labyrinth of Refrain: Coven of Dusk"
+    ],
+	"image": {
+        "url": "https://img.itch.zone/aW1nLzIxNjg4NTY4LnBuZw==/original/YQqKSr.png"
+	},
+	"background": {
+        "url": "'./background/villainess/background.jpg'"
+	},
+    "video": {
+        "url": "",
+        "width": "50%",
+        "height": "100%"
+    },
+    "link": {
+        "url": "https://javurtez.itch.io/katena-records-alpha"
+    }
+}

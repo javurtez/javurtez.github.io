@@ -1,0 +1,23 @@
+{
+    "title": "Project Gedia",
+    "description": "Project Gedia is unique role-playing game where players control the role of a young merchant as he interacts with various customers, explores dangerous areas, and manages the shop's inventory and finances. The shop serves as the central hub of the game, where customers visit to buy and sell goods. By carefully pricing and displaying items, players can attract customers and maximize profits.\n\nThe game also offers a time of day where each nonplayable characters has a life on their own. Each non-playable character follows a meticulously crafted routine, engaging in various activities, interactions, and personal quests that evolve throughout the day and across different seasons.",
+    "games": [
+        "Recettear: An Item Shop's Tale",
+        "Rune Factory Frontier",
+        "Atelier Series"
+    ],
+	"image": {
+        "url": ""
+	},
+	"background": {
+        "url": ""
+	},
+    "video": {
+        "url": "",
+        "width": "50%",
+        "height": "100%"
+    },
+    "link": {
+        "url": ""
+    }
+}
