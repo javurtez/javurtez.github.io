@@ -26,18 +26,18 @@
         "itchLink": "https://javurtez.itch.io/loading",
         "icon_source": "./icons/icon_loading.png"
     },
-    "tots": {
-        "title": "T.O.T.S.: Ready, Set, Let's GO!",
-        "framework": ["phaser"],
-        "gameLink": "https://disneynow.com/games/tots-ready-set-lets-go/GM5523517611",
-        "icon_source": "./icons/icon_tots.png"
-    },
     "hoopta": {
         "title": "Hoopta",
         "framework": ["phaser", "unity"],
         "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.Hoopta",
         "itchLink": "https://javurtez.itch.io/hoopta",
         "icon_source": "./icons/icon_hoopta.png"
+    },
+    "tots": {
+        "title": "T.O.T.S.: Ready, Set, Let's GO!",
+        "framework": ["phaser"],
+        "gameLink": "https://disneynow.com/games/tots-ready-set-lets-go/GM5523517611",
+        "icon_source": "./icons/icon_tots.png"
     },
     "gedia": {
         "title": "Gedia: Market Idle",
