@@ -12,11 +12,39 @@
         "gameLink": "https://disneynow.com/games/the-villains-of-valley-view-super-sneak/GM5527763739",
         "icon_source": "./icons/icon_vovv.png"
     },
+    "color_clicky": {
+        "title": "Color Clicky",
+        "framework": ["phaser", "unity"],
+        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.ColorClicky",
+        "itchLink": "https://javurtez.itch.io/clicky-color",
+        "icon_source": "./icons/icon_color_clicky.png"
+    },
+    "loading-": {
+        "title": "Loading-",
+        "framework": ["phaser", "unity"],
+        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.LoadingMinus",
+        "itchLink": "https://javurtez.itch.io/loading",
+        "icon_source": "./icons/icon_loading.png"
+    },
     "tots": {
         "title": "T.O.T.S.: Ready, Set, Let's GO!",
         "framework": ["phaser"],
         "gameLink": "https://disneynow.com/games/tots-ready-set-lets-go/GM5523517611",
         "icon_source": "./icons/icon_tots.png"
+    },
+    "hoopta": {
+        "title": "Hoopta",
+        "framework": ["phaser", "unity"],
+        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.Hoopta",
+        "itchLink": "https://javurtez.itch.io/hoopta",
+        "icon_source": "./icons/icon_hoopta.png"
+    },
+    "gedia": {
+        "title": "Gedia: Market Idle",
+        "framework": ["phaser", "unity"],
+        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.GediaMarket",
+        "itchLink": "https://javurtez.itch.io/gedia-market-idle",
+        "icon_source": "./icons/icon_gedia.png"
     },
     "cat_scape": {
         "title": "Pet Scape",
@@ -29,13 +57,6 @@
         "framework": ["phaser", "unity"],
         "demoLink": "https://play.google.com/store/apps/details?id=com.TaktylStudios.Viajero",
         "icon_source": "./icons/icon_viajero.png"
-    },
-    "gedia": {
-        "title": "Gedia: Market Idle",
-        "framework": ["phaser", "unity"],
-        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.GediaMarket",
-        "itchLink": "https://javurtez.itch.io/gedia-market-idle",
-        "icon_source": "./icons/icon_gedia.png"
     },
     "bottle_throw_3d": {
         "title": "Bottle Throw 3D",
@@ -74,13 +95,6 @@
         "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.FlailingBird",
         "icon_source": "./icons/icon_flailing_bird.png"
     },
-    "color_clicky": {
-        "title": "Color Clicky",
-        "framework": ["phaser", "unity"],
-        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.ColorClicky",
-        "itchLink": "https://javurtez.itch.io/clicky-color",
-        "icon_source": "./icons/icon_color_clicky.png"
-    },
     "ambak": {
         "title": "Ambak",
         "framework": ["phaser", "unity"],
@@ -107,26 +121,12 @@
         "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.SimpleSudoku",
         "icon_source": "./icons/icon_sudoku.png"
     },
-    "loading-": {
-        "title": "Loading-",
-        "framework": ["phaser", "unity"],
-        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.LoadingMinus",
-        "itchLink": "https://javurtez.itch.io/loading",
-        "icon_source": "./icons/icon_loading.png"
-    },
     "simple_hanoi": {
         "title": "Simple Hanoi",
         "framework": ["phaser", "unity"],
         "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.SimpleHanoi",
         "itchLink": "https://javurtez.itch.io/simple-hanoi",
         "icon_source": "./icons/icon_hanoi.png"
-    },
-    "hoopta": {
-        "title": "Hoopta",
-        "framework": ["phaser", "unity"],
-        "demoLink": "https://play.google.com/store/apps/details?id=com.TreberTGames.Hoopta",
-        "itchLink": "https://javurtez.itch.io/hoopta",
-        "icon_source": "./icons/icon_hoopta.png"
     },
     "get_words_logo": {
         "title": "Get Words With The Logo",
